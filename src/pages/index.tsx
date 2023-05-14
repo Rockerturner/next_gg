@@ -39,8 +39,6 @@ const Home: NextPage = () => {
 
   const [region, setRegion] = useState("");
 
-  const [value, setValue] = useState("");
-
   return (
     <>
       <main className="mt-40 flex flex-row items-center justify-center">
